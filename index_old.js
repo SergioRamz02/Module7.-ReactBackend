@@ -8,7 +8,8 @@ app.use(express.json());
 //Dato simulado
 const post = [
     {id: 1, title: "primer post"},
-    {id: 2, title: "segundo post"}
+    {id: 2, title: "segundo post"},
+    {id: 3, title: "tercer post"}
 ];
 
 //Endpoint para traer post
